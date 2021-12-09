@@ -1,0 +1,29 @@
+State=AAAA/wAAAAD9AAAAAAAABEQAAAWUAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAHABzAGUAcwBzAGkAbwBuAFQAbwBvAGwAYgBhAHIAAAAEL/////8AAAAAAAAAAA==
+StatusBar=Disabled
+
+[Desktop Entry]
+DefaultProfile=Zoko.profile
+
+[FileLocation]
+scrollbackUseCacheLocation=true
+scrollbackUseSystemLocation=false
+
+[KonsoleWindow]
+SaveGeometryOnExit=false
+ShowMenuBarByDefault=false
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAACKwAAAWoAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAHABzAGUAcwBzAGkAbwBuAFQAbwBvAGwAYgBhAHIAAAAEL/////8AAAAAAAAAAA==
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+eDP1 XPosition 2256x1504=10
+eDP1 YPosition 2256x1504=35
+
+[SplitView]
+SplitDragHandleSize=SplitDragHandleMedium
+
+[TabBar]
+NewTabBehavior=PutNewTabAfterCurrentTab
+NewTabButton=true
+TabBarUserStyleSheetFile=file:///home/zack/Documents/Scripts/test.css
